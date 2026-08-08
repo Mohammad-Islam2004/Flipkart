@@ -337,9 +337,7 @@ The goal was to ensure that users could quickly move from:
 
 > Add your dashboard screenshot here.
 
-```markdown
 ![Flipkart Sales Dashboard](assets/dashboard.png)
-```
 
 ### Recommended Repository Structure
 
