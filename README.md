@@ -335,7 +335,6 @@ The goal was to ensure that users could quickly move from:
 
 # 📷 Dashboard Preview
 
-> Add your dashboard screenshot here.
 
 ![Flipkart Sales Dashboard](assets/dashboard.png)
 
